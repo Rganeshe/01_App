@@ -7,4 +7,10 @@ public class Demo{
 		***//	
 	}	
 
+
+	public String saveData(){
+
+	System.out.println("User Data Saved");
+	
+	}
 }
