@@ -10,9 +10,10 @@ public class Test{
 	public int add(){
 
 	int a=12;
-	int b=15;
-
+	int b=145;
 	
+	int c=b/a;
+	System.out.println("Division is : " + c);
 	}
 
 }
